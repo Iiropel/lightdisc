@@ -50,7 +50,6 @@ class _MainMenuState extends State<MainMenu> {
               minWidth: MediaQuery.of(context).size.width * 0.70,
               child: OutlineButton(
                 borderSide: BorderSide(color: Theme.of(context).colorScheme.onPrimary),
-                // PLAY BUTTON
                 child: Text(
                   "HISTORY",
                   style: TextStyle(
