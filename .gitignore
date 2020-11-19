@@ -8,7 +8,7 @@
 .buildlog/
 .history
 .svn/
-local.properties
+*.properties
 
 # IntelliJ related
 *.iml
